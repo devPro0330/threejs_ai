@@ -16,13 +16,19 @@ This project will include following features:
 ## How to run project
 
 - Run Frontend
+
   `cd client`
+
   `npm install`
+
   `npm run dev`
 
 - Run Backend
+
   `cd ..`
+
   `cd server`
+
   `npm install`
 
   - make sure creating a .env file and adding your OPENAI_API_KEY on it
