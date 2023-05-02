@@ -1,8 +1,6 @@
-# AI-Powered 3D Website Using React & 2023 Three JS
+# AI-Powered 3D Website Using React & Three JS
 
 ## Introduction
-
-Many large corporations already use 3D graphics to showcase their products. Learn how to build your own ThreeJS 3D product website and infuse it with the power of artificial intelligence!
 
 This project will include following features:
 
@@ -14,3 +12,19 @@ This project will include following features:
 - Add custom color and file support.
 - Generate and use images through DALLE AI
 - Download the resulting t-shirt model image
+
+## How to run project
+
+- Run Frontend
+  `cd client`
+  `npm install`
+  `npm run dev`
+
+- Run Backend
+  `cd ..`
+  `cd server`
+  `npm install`
+
+  - make sure creating a .env file and adding your OPENAI_API_KEY on it
+
+  `npm run start`
